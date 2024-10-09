@@ -16,8 +16,8 @@ global.ytname = "YT: paskito"
 global.socialm = "GitHub: paskito002"
 global.location = "Nigeria,Cross River,Calabar"
 
-global.ownernumber = '2348187637779'  //creator number
-global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑' //owner name
+global.ownernumber = '256751617788'  //creator number
+global.ownername = 'ZIK TECH UG' //owner name
 global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
 
 //sticker details
@@ -36,12 +36,12 @@ global.prefa = ['.']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
