@@ -18,7 +18,7 @@ global.location = "Nigeria,Cross River,Calabar"
 
 global.ownernumber = '256751617788'  //creator number
 global.ownername = 'ZIK TECH UG' //owner name
-global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
+global.botname = 'ZIK BOT MD - V҉ 2҉' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -32,12 +32,12 @@ global.wm = "ES TEAMS Inc."
 global.link = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = [',']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
